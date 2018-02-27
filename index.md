@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 一个大胆的尝试，玩玩看
 
 You can use the [editor on GitHub](https://github.com/Arcohyp/aTry/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
